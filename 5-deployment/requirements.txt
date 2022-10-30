@@ -1,0 +1,8 @@
+pickle-mixin
+scikit-learn==1.0.2
+requests
+flask
+gunicorn
+seaborn
+xgboost
+catboost
